@@ -12,10 +12,10 @@
 ## Usage:
 
 If you wanna use this repo and make some great stuff further:
-  1.Clone the repository using `git clone https://github.com/iampranavdhar/Lights-Out-Game.git` in the terminal.
-  2.Then use `npm install` - to install all the dependencies.
-  3.And then finally use the `npm start` command - to start the project in you local machine.
+  1. Clone the repository using `git clone https://github.com/iampranavdhar/Lights-Out-Game.git` command in the terminal.
+  2. Then use `npm install` - to install all the dependencies.
+  3. And then finally use the `npm start` command - to start the project in you local machine.
 
 ## Note
 
-If you found this project useful, then please consider giving it a star on Github.
+If you found this project useful, then please consider giving it a :star: on Github.
