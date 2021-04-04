@@ -1,6 +1,7 @@
 # Lights-Out-Game
 ## Demo
-
+### Live Demo:
+Link-https://lightsout-game-pranav.herokuapp.com/
 ### Picture Demo:
 
 ![lightsout](https://user-images.githubusercontent.com/73348574/113488849-49fe8680-94de-11eb-8314-af2d239b42b2.png)
